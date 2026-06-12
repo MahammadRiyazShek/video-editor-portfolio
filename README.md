@@ -47,4 +47,4 @@ Streamlit.
 Bachelor of Technology, Civil Engineering | Srinivasa Ramanujan Institute of Technology | Nov 2020 – May 2024 | 75%
 CERTIFICATIONS & LANGUAGES
 Deep Dive Into Generative AI | Python Programming: AI Powered Implementation | AI Powered Data Engineering | PowerPoint Mastery | Languages: English, Hindi,
-Urdu, Telugu | Full link set included in appendix PDF.
+Urdu, Telugu
