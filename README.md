@@ -1,4 +1,4 @@
-# video-editor-portfolio
+# Video Editor
 
 GroundJoy AI Brand Kit — Built an AI-assisted brand identity system with logo assets, mockups, a short motion reel, structured brand data, and a 14-day Instagram
 content calendar for deployable brand storytelling.
