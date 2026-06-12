@@ -1,5 +1,5 @@
 
-# Video Editor
+# Mahammad Riyaz Shek
 
 1. GroundJoy AI Brand Kit — Built an AI-assisted brand identity system with logo assets, mockups, a short motion reel, structured brand data, and a 14-day Instagram
 content calendar for deployable brand storytelling.
@@ -16,8 +16,8 @@ quiz scoring, and report-card style outputs in a deployable static workflow
 
 ## Link: https://mahammadriyazshek.github.io/AI-EdTech-Instructional-Design-Studio/
 
-## Mahammad Riyaz Shek
-+91 9100513537 | shekmahammadriyaz@gmail.com | Hyderabad, Telangana, India | LinkedIn | GitHub | Portfolio
+## Contact Details
++91 9100513537 | shekmahammadriyaz@gmail.com | Hyderabad, Telangana, India | LinkedIn: https://www.linkedin.com/in/mahammadriyazshek/ | GitHub: https://github.com/MahammadRiyazShek | Portfolio: https://wdtukmtp.gensparkspace.com/
 Target Role: Video Editor | Studio73 | Full-time, Bangalore
 ## PROFESSIONAL SUMMARY
 AI-enabled Video Editor with experience building retention-focused long-form YouTube videos, Instagram Reels, and YouTube Shorts while combining
